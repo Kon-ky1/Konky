@@ -4,3 +4,4 @@ global.url = "https://t.me/devorsix_exposed"
 global.url2 = "https://t.me/devorsix_exposed"
 global.packname = "devorsixcore"
 global.author = "devorsixcore"
+global.sessionName = 'session'
